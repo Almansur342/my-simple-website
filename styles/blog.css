@@ -2,5 +2,10 @@ div{
   background-color: tomato;
   padding: 10px;
   margin-bottom: 15px;
-
 }
+
+.git-code{
+  background-color: antiquewhite;
+  font-family: arial;
+}
+
